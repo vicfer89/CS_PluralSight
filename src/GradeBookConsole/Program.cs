@@ -8,7 +8,6 @@ namespace GradeBookConsole
         {
             if(args.Length > 0)
             {
-                //string Decir = "Se ha introducido: " + args[0];
                 Console.WriteLine($"Se ha introducido {args[0]} en argumentos...");
             }            
             else
